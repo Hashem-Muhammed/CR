@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Apple",
+      "quantity": "125",
+      "price": "2000"
+    },
+    {
+      "name": "Samsung",
+      "price": "1500",
+      "quantity": "200",
+      "id": 3
+    },
+    {
+      "name": "Lenovo",
+      "price": "300",
+      "quantity": "40",
+      "id": 5
+    },
+    {
+      "name": "IPhoneX",
+      "price": "2500",
+      "quantity": "20",
+      "id": 6
+    },
+    {
+      "name": "IPhone12",
+      "price": "900",
+      "quantity": "50",
+      "id": 7
+    },
+    {
+      "name": "hashem",
+      "price": "21",
+      "quantity": "22",
+      "id": 8
+    }
+  ]
+}
